@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554DD28E-A374-4318-81B2-B82C63EBE615}|ProductionPE\\ProductionPE.csproj|c:\\users\\tranbin\\source\\repos\\googlesheet\\productionpe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554DD28E-A374-4318-81B2-B82C63EBE615}|ProductionPE\\ProductionPE.csproj|solutionrelative:productionpe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554DD28E-A374-4318-81B2-B82C63EBE615}|ProductionPE\\ProductionPE.csproj|C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\productionpe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554DD28E-A374-4318-81B2-B82C63EBE615}|ProductionPE\\ProductionPE.csproj|solutionrelative:productionpe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554DD28E-A374-4318-81B2-B82C63EBE615}|ProductionPE\\ProductionPE.csproj|C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\productionpe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{554DD28E-A374-4318-81B2-B82C63EBE615}|ProductionPE\\ProductionPE.csproj|solutionrelative:productionpe\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0423B4C7-BCA7-4E28-B3CF-E131C1EFE6AD}|GoogleSheet\\GoogleSheet.csproj|C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\googlesheet\\data\\dbworkhouse.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{0423B4C7-BCA7-4E28-B3CF-E131C1EFE6AD}|GoogleSheet\\GoogleSheet.csproj|solutionrelative:googlesheet\\data\\dbworkhouse.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProductionPE||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GoogleSheet||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbWorkHouse.dbml",
+              "DocumentMoniker": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\GoogleSheet\\Data\\dbWorkHouse.dbml",
+              "RelativeDocumentMoniker": "GoogleSheet\\Data\\dbWorkHouse.dbml",
+              "ToolTip": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\GoogleSheet\\Data\\dbWorkHouse.dbml",
+              "RelativeToolTip": "GoogleSheet\\Data\\dbWorkHouse.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-10T14:24:28.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionPE",
+              "DocumentMoniker": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\ProductionPE.csproj",
+              "RelativeDocumentMoniker": "ProductionPE\\ProductionPE.csproj",
+              "ToolTip": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\ProductionPE.csproj",
+              "RelativeToolTip": "ProductionPE\\ProductionPE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T14:13:04.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoogleSheet",
+              "DocumentMoniker": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\GoogleSheet\\GoogleSheet.csproj",
+              "RelativeDocumentMoniker": "GoogleSheet\\GoogleSheet.csproj",
+              "ToolTip": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\GoogleSheet\\GoogleSheet.csproj",
+              "RelativeToolTip": "GoogleSheet\\GoogleSheet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T14:13:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\frmMain.cs",
+              "RelativeDocumentMoniker": "ProductionPE\\frmMain.cs",
+              "ToolTip": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\frmMain.cs",
+              "RelativeToolTip": "ProductionPE\\frmMain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:13:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\Program.cs",
+              "RelativeDocumentMoniker": "ProductionPE\\Program.cs",
+              "ToolTip": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\Program.cs",
+              "RelativeToolTip": "ProductionPE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:13:28.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\frmMain.cs",
+              "RelativeDocumentMoniker": "ProductionPE\\frmMain.cs",
+              "ToolTip": "C:\\Users\\TranBin\\source\\repos\\GoogleSheet\\ProductionPE\\frmMain.cs [Design]",
+              "RelativeToolTip": "ProductionPE\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:13:18.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

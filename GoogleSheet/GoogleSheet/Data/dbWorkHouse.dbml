@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="workhouse" Class="dbWorkHouseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-MIS9LDI;Initial Catalog=workhouse;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="GoogleSheet.Properties.Settings" SettingsPropertyName="workhouseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SanPham" Member="SanPhams">
+    <Type Name="SanPham">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SanPhamId" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SanPhamThamChieu" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MaCcdc" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TenSanPham" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="HienThi" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="PartNo" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="NhomSanPham" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="QuyCach" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ViTri" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="HinhAnh" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ThongTin" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="HanSuDung" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Dvt" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SlNhap" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SlXuat" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SlTon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GiaTriTon" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="TrangThai" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="NgayTao" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="NguoiTao" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="LastUpdate" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.v_sanpham" Member="v_sanphams">
+    <Type Name="v_sanpham">
+      <Column Name="MaCcdc" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TenSanPham" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ThongTin" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="HinhAnh" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="NhomSanPham" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ViTri" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SLNhap" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SLXuat" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SlTon" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastUpdate" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
