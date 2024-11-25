@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\",
+  "WorkspaceRootPath": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\repositories\\interface\\icategortrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\interface\\icategortrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\models\\domain\\cetaegory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\domain\\cetaegory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\codepulse.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\codepulse.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\repositories\\interface\\icategortrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\interface\\icategortrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\models\\domain\\cetaegory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\domain\\cetaegory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\codepulse.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\codepulse.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\tranbin\\desktop\\managerproject\\learningnsth\\api\\codepulse.api\\codepulse.api\\codepulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\codepulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\codepulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|Solution Items{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|Solution Items{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|solutionrelative:note.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\binhtt\\desktop\\learningnsth\\api\\codepulse.api\\codepulse.api\\migrations\\20241123053305_intital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC9C03D-764B-453E-801B-1E71F2B00C82}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\migrations\\20241123053305_intital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|Document{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|Document{61FAFCF3-E678-4330-8E46-90EC92E98FD9}|solutionrelative:note.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,158 +70,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "CodePulse.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T06:11:37.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:53:25.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:47:21.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T06:08:13.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICategortRepository.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
-              "RelativeToolTip": "CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T06:06:23.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CategoryDto.cs",
-              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:53:25.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateCategoryRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:47:21.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs*",
-              "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:40:50.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:40:50.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20241123053305_Intital Migration.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs",
               "RelativeDocumentMoniker": "CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs",
               "RelativeToolTip": "CodePulse.API\\Migrations\\20241123053305_Intital Migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:33:05.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:33:05.814Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CodePulse.API.http",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.http",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.http",
               "RelativeDocumentMoniker": "CodePulse.API\\CodePulse.API.http",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.http",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.http",
               "RelativeToolTip": "CodePulse.API\\CodePulse.API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-23T05:29:26.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:29:26.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\appsettings.json",
               "RelativeDocumentMoniker": "CodePulse.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\appsettings.json",
               "RelativeToolTip": "CodePulse.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-23T05:27:44.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Program.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Program.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Program.cs",
-              "RelativeToolTip": "CodePulse.API\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:27:39.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T06:08:13.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cetaegory.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\Domain\\Cetaegory.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Models\\Domain\\Cetaegory.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\Domain\\Cetaegory.cs",
-              "RelativeToolTip": "CodePulse.API\\Models\\Domain\\Cetaegory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:47:33.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "CodePulse.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\WeatherForecast.cs",
               "RelativeToolTip": "CodePulse.API\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,42 +172,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CodePulse.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Program.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Program.cs",
+              "RelativeToolTip": "CodePulse.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:23:13.287Z",
+              "WhenOpened": "2024-11-23T05:27:39.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CodePulse.API",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+              "DocumentIndex": 8,
+              "Title": "ICategortRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
+              "RelativeToolTip": "CodePulse.API\\Repositories\\Interface\\ICategortRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:06:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CodePulse.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T06:11:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cetaegory.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\Domain\\Cetaegory.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\Domain\\Cetaegory.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\Domain\\Cetaegory.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\Domain\\Cetaegory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:47:33.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodePulse.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:23:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CodePulse.API.csproj",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
               "RelativeDocumentMoniker": "CodePulse.API\\CodePulse.API.csproj",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj*",
-              "RelativeToolTip": "CodePulse.API\\CodePulse.API.csproj*",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+              "RelativeToolTip": "CodePulse.API\\CodePulse.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T05:20:14.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:20:14.402Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "note.txt",
-              "DocumentMoniker": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\note.txt",
+              "DocumentMoniker": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\note.txt",
               "RelativeDocumentMoniker": "note.txt",
-              "ToolTip": "C:\\Users\\TranBin\\Desktop\\ManagerProject\\LearningNSTH\\API\\CodePulse.API\\note.txt",
+              "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\note.txt",
               "RelativeToolTip": "note.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-23T05:18:12.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:18:12.298Z"
             }
           ]
         }
