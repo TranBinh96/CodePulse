@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
               "ToolTip": "C:\\Users\\BINHTT\\Desktop\\LearningNSTH\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
               "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T05:47:21.817Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:40:50.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:40:50.317Z"
             },
             {
               "$type": "Document",
@@ -144,8 +143,7 @@
               "RelativeToolTip": "CodePulse.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-23T05:27:44.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:27:44.366Z"
             },
             {
               "$type": "Document",
@@ -169,8 +167,7 @@
               "RelativeToolTip": "CodePulse.API\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:27:38.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:27:38.929Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "CodePulse.API\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T05:27:39.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T05:27:39.507Z"
             },
             {
               "$type": "Document",
